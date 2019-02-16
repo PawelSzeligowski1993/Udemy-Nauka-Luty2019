@@ -1,0 +1,17 @@
+SzklanaButelka{RfId=7, pojemność=15.0, zawartość=5.0, masa=4.0, materiał='Szkło', marka='Pepsi', czyZwrotna=true}
+MetalowaButelka{RfId=0, pojemność=20.0, zawartość=5.0, masa=5.0, materiał='Aluminium'}
+MetalowaButelka{RfId=1, pojemność=20.0, zawartość=5.0, masa=5.0, materiał='Aluminium'}
+PlastikowaButelka{RfId=2, pojemność=25.0, zawartość=5.0, masa=1.0, materiał='PET', marka='CocaCola'}
+PlastikowaButelka{RfId=3, pojemność=25.0, zawartość=5.0, masa=1.0, materiał='PET', marka='CocaCola'}
+PorcelanowaButelka{RfId=4, pojemność=10.0, zawartość=5.0, masa=4.0, materiał='Porcelana Angielska', marka='EnglishPorcelain', jakość=WYSOKA}
+PorcelanowaButelka{RfId=5, pojemność=10.0, zawartość=5.0, masa=4.0, materiał='Porcelana Chińska', marka='ChinaPorcelain', jakość=WYSOKA}
+SzklanaButelka{RfId=6, pojemność=15.0, zawartość=5.0, masa=4.0, materiał='Szkło', marka='Pepsi', czyZwrotna=true}
+SzklanaButelka{RfId=7, pojemność=15.0, zawartość=5.0, masa=4.0, materiał='Szkło', marka='Pepsi', czyZwrotna=true}
+MetalowaButelka{RfId=0, pojemność=20.0, zawartość=5.0, masa=5.0, materiał='Aluminium'}
+MetalowaButelka{RfId=1, pojemność=20.0, zawartość=5.0, masa=5.0, materiał='Aluminium'}
+PlastikowaButelka{RfId=2, pojemność=25.0, zawartość=5.0, masa=1.0, materiał='PET', marka='CocaCola'}
+PlastikowaButelka{RfId=3, pojemność=25.0, zawartość=5.0, masa=1.0, materiał='PET', marka='CocaCola'}
+PorcelanowaButelka{RfId=4, pojemność=10.0, zawartość=5.0, masa=4.0, materiał='Porcelana Angielska', marka='EnglishPorcelain', jakość=WYSOKA}
+PorcelanowaButelka{RfId=5, pojemność=10.0, zawartość=5.0, masa=4.0, materiał='Porcelana Chińska', marka='ChinaPorcelain', jakość=WYSOKA}
+SzklanaButelka{RfId=6, pojemność=15.0, zawartość=5.0, masa=4.0, materiał='Szkło', marka='Pepsi', czyZwrotna=true}
+SzklanaButelka{RfId=7, pojemność=15.0, zawartość=5.0, masa=4.0, materiał='Szkło', marka='Pepsi', czyZwrotna=true}
